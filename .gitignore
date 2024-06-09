@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore specific CSV files
+airqualitydata.csv
+pollution_us_2000_2016.csv
